@@ -22,10 +22,12 @@ div img{
     padding-left: 300px;
     padding-right: 200px;
     grid-template-columns: auto auto auto auto auto;
+    gap:5px;
 }
 .bird{
     display: grid;
     padding-left: 200px;
     padding-right: 200px;
     grid-template-columns: auto auto auto auto auto auto;
+    gap:5px;
 }
